@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelajsc
 - 👀 I’m interested in bringing tech to all audiences
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning all things GraphQL
 
 
 <!---
