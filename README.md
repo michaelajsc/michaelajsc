@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaelajsc
+- 👋 Hi, I’m Michaela
 - 👀 I’m interested in bringing tech to all audiences
 - 🌱 I’m currently learning all things GraphQL
 
