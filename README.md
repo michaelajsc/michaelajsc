@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michaela
-- 👀 I’m interested in bringing tech to all audiences
-- 🌱 I’m currently learning all things GraphQL
+- 👀 I’m interested in bringing technical solutions to all audiences of all capabilities
+- 🌱 I’m currently learning all things GraphQL in my role, and taking a react course on the side.
 
 
 <!---
